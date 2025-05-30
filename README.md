@@ -76,12 +76,12 @@ Perform set operations using:
   
   - Output tables demonstrating correct use of row-wise and column-wise data merging.
 
-# Additional Resources
+## Additional Resources
   - [W3Schools SQL Joins](https://www.w3schools.com/sql/sql_join.asp)  
   - [PostgreSQL Set Operations](https://www.postgresql.org/docs/current/queries-union.html)  
   - [Mode SQL Tutorial](https://mode.com/sql-tutorial)  
   - [SQLite Joins](https://www.sqlitetutorial.net/sqlite-joins/)
 
-# Author
+## Author
 ExploreAI Academy Learner
 For more SQL projects, visit [ExploreAI Academy](https://www.explore.ai/about-exploreai)
