@@ -21,7 +21,7 @@ In this exercise, you will:
   
   - Set operations (row-wise combination based on identical structure)
 
-# Prerequisites
+## Prerequisites
 - Basic knowledge of SQL syntax and relational databases.
 
 - SQL environment such as:
@@ -31,7 +31,7 @@ In this exercise, you will:
   - DBMS tools like DBeaver, pgAdmin, MySQL Workbench
   
 
-# Folder Structure
+## Folder Structure
 ```
 joins-set-operations/
 │
@@ -48,8 +48,8 @@ joins-set-operations/
 └── joins_set_operations_notebook.ipynb  (optional Jupyter notebook for guided exercises)
 ```
 
-# Tasks
-# 🧩 Join Operations
+## Tasks
+### 🧩 Join Operations
 Write SQL queries using:
 
   - INNER JOIN to find common records between tables.
@@ -62,7 +62,7 @@ Write SQL queries using:
   
   - SELF JOIN to find relationships within a single table (e.g., employee-manager relationships).
 
-# 🧪 Set Operations
+## 🧪 Set Operations
 Perform set operations using:
 
   - UNION and UNION ALL to merge rows from two datasets.
