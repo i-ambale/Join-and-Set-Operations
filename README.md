@@ -83,5 +83,6 @@ Perform set operations using:
   - [SQLite Joins](https://www.sqlitetutorial.net/sqlite-joins/)
 
 ## Author
-ExploreAI Academy Learner
+ExploreAI Academy Learner: Ibrahim Ambale
+
 For more SQL projects, visit [ExploreAI Academy](https://www.explore.ai/about-exploreai)
