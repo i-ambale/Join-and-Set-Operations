@@ -62,7 +62,7 @@ Write SQL queries using:
   
   - SELF JOIN to find relationships within a single table (e.g., employee-manager relationships).
 
-## 🧪 Set Operations
+### 🧪 Set Operations
 Perform set operations using:
 
   - UNION and UNION ALL to merge rows from two datasets.
@@ -71,7 +71,7 @@ Perform set operations using:
   
   - MINUS / EXCEPT to find differences in datasets.
 
-# Expected Output
+## Expected Output
   - A series of well-commented SQL scripts that execute various joins and set operations.
   
   - Output tables demonstrating correct use of row-wise and column-wise data merging.
